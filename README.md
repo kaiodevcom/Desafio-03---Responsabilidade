@@ -11,4 +11,5 @@
   <br>
   <h3>A baixo segue o design final do projeto tanto computador quanto celular.</h3>
 <img src="https://github.com/kaiodevcom/Easy-Shopping/blob/master/img/Computer%20-%20Easy%20Shopping.jpg?raw=true" width= "800px" height="400px" alt="imagem-projeto-computador">
-<img 
+<img src="https://github.com/kaiodevcom/Easy-Shopping/blob/master/img/Easy%20Shopping%20-%20Cel.jpg?raw=true width= "200px" height="400px" alt="imagem-projeto-celular">
+
